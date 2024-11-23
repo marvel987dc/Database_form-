@@ -41,7 +41,7 @@ public class videogames_form extends Application {
     public void getConnection() {
         String databaseUser = "COMP228_F24_sy_67";
         String databasePassword = "password";
-        String url = "jdbc:oracle:thin:@oracle1.centennialcollege.ca:1521:SQLD";
+        String url = "Prompt here your DB";
         //jdbc:mysql://url:3306/connection1
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver");

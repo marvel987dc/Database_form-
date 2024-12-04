@@ -39,7 +39,7 @@ public class videogames_form extends Application {
 
 
     public void getConnection() {
-        String databaseUser = "COMP228_F24_sy_67";
+        String databaseUser = "your username";
         String databasePassword = "password";
         String url = "Prompt here your DB";
         //jdbc:mysql://url:3306/connection1
